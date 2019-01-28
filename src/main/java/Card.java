@@ -1,5 +1,5 @@
 
-public class Card {
+public class Card implements java.io.Serializable {
 	private int number;
 	private String suite;
 	
